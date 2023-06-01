@@ -1,0 +1,23 @@
+body {
+	max-width: 1136px;
+	margin: 0, auto;
+	flex: 0 1 auto;
+}
+img {
+	position: relative;
+
+	max-width: 100%;
+	margin: 0, auto;
+}
+
+ul {
+	/* min-width: 1136px; */
+	left: 0;
+	margin: 0;
+	position: absolute;
+	left: 0;
+	display: flex;
+	justify-content: center;
+	width: 1136px;
+}
+
